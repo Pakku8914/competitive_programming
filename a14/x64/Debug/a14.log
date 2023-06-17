@@ -1,0 +1,3 @@
+﻿  a14.cpp
+C:\Users\pakku\OneDrive\ドキュメント\Visual Studio 2022\Projects\competitive_programming\a14\a14.cpp(19,16): warning C4244: '初期化中': '__int64' から 'int' への変換です。データが失われる可能性があります。
+  a14.vcxproj -> C:\Users\pakku\OneDrive\ドキュメント\Visual Studio 2022\Projects\competitive_programming\x64\Debug\a14.exe

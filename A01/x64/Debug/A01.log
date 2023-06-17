@@ -1,0 +1,5 @@
+﻿  A02.cpp
+A02.obj : error LNK2005: "void __cdecl solve(void)" (?solve@@YAXXZ) は既に A01.obj で定義されています。
+A02.obj : error LNK2005: main は既に A01.obj で定義されています。
+A02.obj : error LNK2005: "int N" (?N@@3HA) は既に A01.obj で定義されています。
+C:\Users\pakku\OneDrive\ドキュメント\Visual Studio 2022\Projects\competitive_programming\x64\Debug\A01.exe : fatal error LNK1169: 1 つ以上の複数回定義されているシンボルが見つかりました。

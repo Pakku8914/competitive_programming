@@ -1,0 +1,4 @@
+﻿  b14_ans.cpp
+C:\Users\pakku\OneDrive\ドキュメント\Visual Studio 2022\Projects\competitive_programming\b14_ans\b14_ans.cpp(34,13): warning C4244: '初期化中': '__int64' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\pakku\OneDrive\ドキュメント\Visual Studio 2022\Projects\competitive_programming\b14_ans\b14_ans.cpp(46,11): warning C4244: '初期化中': '__int64' から 'int' への変換です。データが失われる可能性があります。
+  b14_ans.vcxproj -> C:\Users\pakku\OneDrive\ドキュメント\Visual Studio 2022\Projects\competitive_programming\x64\Debug\b14_ans.exe

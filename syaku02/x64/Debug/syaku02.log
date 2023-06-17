@@ -1,0 +1,3 @@
+﻿  syaku02.cpp
+C:\Users\pakku\OneDrive\ドキュメント\Visual Studio 2022\Projects\competitive_programming\syaku02\syaku02.cpp(18,24): warning C4244: '=': '__int64' から 'int' への変換です。データが失われる可能性があります。
+  syaku02.vcxproj -> C:\Users\pakku\OneDrive\ドキュメント\Visual Studio 2022\Projects\competitive_programming\x64\Debug\syaku02.exe
